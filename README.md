@@ -93,4 +93,6 @@ kubectl describe deployment nginx-deployment
 
 ## Screenshots
 
-<image
+<image src="https://github.com/mujawarsaad/kubernetes/blob/main/image1.png">
+<image src="https://github.com/mujawarsaad/kubernetes/blob/main/image2.png">
+<image src="https://github.com/mujawarsaad/kubernetes/blob/main/image3.png">
